@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shellgit</title>
-    <link>http://git.shellgit.com/</link>
+    <link>https://git.shellgit.com/</link>
     <description>Recent content on shellgit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://git.shellgit.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://git.shellgit.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
